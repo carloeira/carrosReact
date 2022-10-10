@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "nome": "Pizza"
+        },
+        {
+            "id": 2,
+            "nome": "Salgado"
+        },
+        {
+            "id": 3,
+            "nome": "Pratinho"
+        },
+        {
+            "id": 4,
+            "nome": "Espetinho"
+        }
+    ]
+}
